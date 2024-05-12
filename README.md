@@ -15,7 +15,7 @@ Technology integration and movement are modern considerations in desk design. De
 > 
 > An optical computer mouse provides precise cursor control and quick responsiveness.
 > 
-> 2. Add more foam to common office chairs maintain comfort and save money.
+> 2. Add more foam to common office chairs to maintain comfort and save money.
 > 
 > Common office and gamming office chairs fail to maintain comfortability after 6 months of everyday use.
 > 
