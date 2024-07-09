@@ -8,6 +8,10 @@ Technology integration and movement are modern considerations in desk design. De
 
 #
 
+![Posture](https://github.com/sourceduty/Office_Comfort/assets/123030236/c6b90ad3-4f05-4322-99b8-7cc2465264eb)
+
+#
+
 > [!TIP]
 > Alex's Ergonomic Office Tips:
 > ```
