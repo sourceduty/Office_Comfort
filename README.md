@@ -43,6 +43,10 @@ Technology integration and movement are modern considerations in desk design. De
 > ```
 
 #
+
+![Office Work](https://github.com/user-attachments/assets/6ec2664a-fad7-4bbe-bbc4-b9a433d3af4e)
+
+#
 ### Related Links
 
 [Laptop Design](https://github.com/sourceduty/Laptop_Design)
