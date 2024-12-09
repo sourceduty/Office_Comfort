@@ -50,6 +50,15 @@ Zero-gravity workstation desks are an ergonomic solution designed to provide a c
 Such workstations are particularly beneficial for individuals who spend long hours in front of screens, like developers, designers, and remote workers. The zero-gravity positioning can improve circulation and decrease the physical strain associated with traditional desks. Many models include features such as lumbar support, integrated power management, and customizable arm rests. These desks cater to a niche but growing market of professionals seeking optimal comfort and health benefits while working. By combining comfort with productivity-enhancing features, zero-gravity workstations represent a forward-thinking approach to workspace design in the age of digital work.
 
 #
+### Dirty People
+
+![Dirty Office](https://github.com/user-attachments/assets/af7af20b-0672-42a5-9d2c-6781546d66a7)
+
+Computer hygiene refers to practices that help maintain a clean, efficient, and safe computing environment. This includes activities such as regularly updating software and operating systems, deleting unnecessary files, running antivirus scans, and maintaining good password habits. Office hygiene, on the other hand, pertains to practices aimed at keeping an office space clean, organized, and productive. This involves tasks like cleaning surfaces, organizing paperwork, disposing of waste properly, and ensuring proper ventilation.
+
+The main difference between computer and office hygiene is that computer hygiene focuses specifically on maintaining the health and functionality of computers and related technology, while office hygiene encompasses a broader range of practices aimed at keeping an entire workspace clean and organized.
+
+#
 ![Tropical Office](https://github.com/user-attachments/assets/0b65ffd9-68c4-451f-b790-b3c0942817d6)
 
 #
