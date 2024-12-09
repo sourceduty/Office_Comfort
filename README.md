@@ -49,6 +49,8 @@ Zero-gravity workstation desks are an ergonomic solution designed to provide a c
 
 Such workstations are particularly beneficial for individuals who spend long hours in front of screens, like developers, designers, and remote workers. The zero-gravity positioning can improve circulation and decrease the physical strain associated with traditional desks. Many models include features such as lumbar support, integrated power management, and customizable arm rests. These desks cater to a niche but growing market of professionals seeking optimal comfort and health benefits while working. By combining comfort with productivity-enhancing features, zero-gravity workstations represent a forward-thinking approach to workspace design in the age of digital work.
 
+![Cleanroom](https://github.com/user-attachments/assets/92a94b59-90c4-4210-8ec7-b7586331427b)
+
 #
 ### Dirty People
 
